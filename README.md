@@ -51,7 +51,6 @@ The `dataset_metadata.csv` provides normalized coordinates for ground-truth labe
 
 ## 👨‍💻 Authors & Credits
 
-* **Lead Developer:** Nitish Joshi (2nd Year B.Tech CSE Student)
+* **Lead Developer:** Nitish Joshi
 * **Institution:** Dev Bhoomi Uttrakhand University, Dehradun
-* **Contact:** nitishjoshi0554@gmail.com
 * **Website:** [nitishjoshi.in](https://nitishjoshi.in)
